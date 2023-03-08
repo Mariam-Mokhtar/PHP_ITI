@@ -28,12 +28,9 @@
             ."<p> Message:  ".trim($_POST['message'])."</p>"
             .'</center>'.
        '</div></body>'
-
     );
-   
          }
     }
-
     $parameter = isset($_GET["page"]) ? $_GET["page"] : "";
     if ($parameter === "all")
        require_once("./view/users.php");
