@@ -31,7 +31,6 @@
     );
      }
     }
-
     $parameter = isset($_GET["page"]) ? $_GET["page"] : "";
     if ($parameter === "all")
        require_once("./view/users.php");

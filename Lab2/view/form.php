@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
     <title>Document</title>
 </head>
-
 <body style="background: linear-gradient(#ECF2FF,
 #E3DFFD,
 #E5D1FA,

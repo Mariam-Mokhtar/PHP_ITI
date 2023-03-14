@@ -30,6 +30,7 @@ function remember_var($var){
         return "";
     }
   }
+  
 function save_to_file($date) {
     $fp = fopen(_Saving_File_, "a+");
     $written_string = $date." ,".
