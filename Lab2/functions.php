@@ -30,11 +30,7 @@ function remember_var($var){
         return "";
     }
   }
-//   function save_to_file() {
-//    file_put_contents("../Lab2/files/data.txt",implode(" , ", $_POST));
-// }
 function save_to_file($date) {
-    print_r($_POST);
     $fp = fopen(_Saving_File_, "a+");
     $written_string = $date." ,".
     $_SERVER['REMOTE_ADDR']." ,".

@@ -9,7 +9,6 @@
          {
             $submit_date=date("F j Y g:i a");
             save_to_file($submit_date);
-
             die('<body style="background: linear-gradient(#ECF2FF,
             #E3DFFD,
             #E5D1FA,
@@ -28,9 +27,11 @@
             ."<p> Message:  ".trim($_POST['message'])."</p>"
             .'</center>'.
        '</div></body>'
+
     );
-         }
+     }
     }
+
     $parameter = isset($_GET["page"]) ? $_GET["page"] : "";
     if ($parameter === "all")
        require_once("./view/users.php");
