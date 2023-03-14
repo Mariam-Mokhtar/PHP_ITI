@@ -31,4 +31,4 @@ if(!empty($_FILES))
     }
  }
 }
- require_once("/xampp/htdocs/iti_php/Lab3/uploadFile_aws_S3/views/fileUpload.php");
+require_once("/xampp/htdocs/iti_php/Lab3/uploadFile_aws_S3/views/fileUpload.php");
