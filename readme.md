@@ -5,11 +5,11 @@
 
 ## Lab2
 ### Contact Form With Files
-![MergedImages](https://user-images.githubusercontent.com/83876328/225045264-8266e7eb-8e93-4213-ac8f-11d3bdb4602b.png)
+![image](https://user-images.githubusercontent.com/83876328/225051018-217037c1-0fde-4983-abc0-c47b43abc0fc.png)
 
 ## Lab3
 ### File Upload using aws S3
-![MergedImages(1)](https://user-images.githubusercontent.com/83876328/225045685-b7ab09a4-616d-4aaf-ab1b-7ce8e9b15e7d.png)
+![image(1)](https://user-images.githubusercontent.com/83876328/225050268-a453d159-50b8-4910-b6b4-dc0a505d0c2c.png)
 
 ### Website Visitor Counter
 ![image](https://user-images.githubusercontent.com/83876328/225010451-f20b83be-d6b6-4abc-a13a-84452b6f1ddf.JPG)
